@@ -12,18 +12,18 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 *A web application for mental health monitoring*
 
-[**HTML Practice Questions**](https://github.com/sauravkumar0002/HTML-Practice-Question)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-*Collection of HTML exercises and solutions*
 
 ### Programming Practice
-[**Python Practice**](https://github.com/sauravkumar0002/python)  
+[**Python,c++,HTML,CSS Practice**](https://github.com/sauravkumar0002/Practice-Questions-in-Python-Cpp-HTML-Css)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-*My practice questions during study of Python and C++*
-
-[**C++ Local File Projects**](https://github.com/sauravkumar0002/local-file)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-*C++ programming exercises and projects*
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+*My practice questions during study of Python,C++,HTML and CSS*
+
+[**HTML Practice Questions**](https://github.com/sauravkumar0002/HTML-Practise-Question-)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+*Collection of HTML exercises and solutions*
 
 ## 📊 GitHub Analytics
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sauravkumar0002&theme=github&area=true&hide_border=true)
